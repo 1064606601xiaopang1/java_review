@@ -15,4 +15,8 @@ public class USA extends Person {
     void gril() {
         System.out.println("USA女孩");
     }
+
+    public static void test() {
+        System.out.println("true = " + true);
+    }
 }

@@ -13,4 +13,8 @@ public class Person {
     void china() {
         System.out.println("person_china: 中国");
     }
+
+    static void test(){
+        System.out.println("测试静态方法");
+    }
 }

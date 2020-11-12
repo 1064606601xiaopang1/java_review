@@ -2,6 +2,8 @@ package com.review.test;
 
 import com.review.entity.Children;
 import com.review.entity.Person;
+import com.review.entity.USA;
+import org.junit.Test;
 
 /**
  * @Author: Guo
@@ -16,5 +18,11 @@ public class Polymorphic {
     }
 
     public static void test() {
+    }
+
+
+    @Test
+    public void test01() {
+        USA.test();
     }
 }
