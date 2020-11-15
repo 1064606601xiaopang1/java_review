@@ -1,31 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df2af7c7-0797-4fcb-9b7f-2afa2a1c547b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/test/ThreadDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/test/ThredDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/Test03Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/Test2ThreadIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/TestCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/TestRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_polymorphic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/pom.xml" afterDir="false" />
+    <list default="true" id="627283ca-ae42-4cc4-96d8-63b6b130f3e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/agent/Agent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestDaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestTestManagement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestThreadSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestYield.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_demo_review.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/java_polymorphic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/entity/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/entity/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/ObjectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/ObjectDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/StringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/StringDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/ThreadDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/ThreadDemo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/ThredDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/test/ThredDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/DownLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/DownLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/Test03Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/Test03Thread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/Test2ThreadIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/Test2ThreadIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestThread.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java_demo_review" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,54 +53,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.5.3-bin/apache-maven-3.5.3" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectId" id="1kAfJs6lzuivqxySLevMJpr7Vv1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="1kJj0MmRggT9BP5jjoSWhrB4oLk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.TestCallable">
-    <configuration name="Test03Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.review.thread.Test03Thread" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestThreadPool">
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestLock" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.review.thread.*" />
+          <option name="PATTERN" value="com.review.sleepAndStop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2ThreadIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.review.thread.Test2ThreadIO" />
+    <configuration name="TestManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestManagement" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.review.thread.*" />
+          <option name="PATTERN" value="com.review.sleepAndStop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.review.thread.TestCallable" />
+    <configuration name="TestTestManagement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestTestManagement2" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.review.thread.*" />
+          <option name="PATTERN" value="com.review.sleepAndStop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.review.thread.TestRunnable" />
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestThreadPool" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.review.thread.*" />
+          <option name="PATTERN" value="com.review.sleepAndStop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.review.thread.TestThread" />
+    <configuration name="TestThreadSynchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestThreadSynchronization" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.review.thread.*" />
+          <option name="PATTERN" value="com.review.sleepAndStop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,116 +146,40 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCallable" />
-        <item itemvalue="Application.Test03Thread" />
-        <item itemvalue="Application.TestRunnable" />
-        <item itemvalue="Application.Test2ThreadIO" />
-        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.TestThreadPool" />
+        <item itemvalue="Application.TestTestManagement2" />
+        <item itemvalue="Application.TestManagement" />
+        <item itemvalue="Application.TestLock" />
+        <item itemvalue="Application.TestThreadSynchronization" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df2af7c7-0797-4fcb-9b7f-2afa2a1c547b" name="Default Changelist" comment="" />
-      <created>1605148247346</created>
+      <changelist id="627283ca-ae42-4cc4-96d8-63b6b130f3e4" name="Default Changelist" comment="" />
+      <created>1605425364162</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605148247346</updated>
-      <workItem from="1605148255068" duration="5191000" />
-      <workItem from="1605160211001" duration="8636000" />
-      <workItem from="1605230051421" duration="14106000" />
+      <updated>1605425364162</updated>
+      <workItem from="1605425366885" duration="15373000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="179" width="1132" height="861" key="#Inspections" timestamp="1605256527781">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="179" width="1132" height="861" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1605256527781" />
-    <state x="720" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605248408812">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="720" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605248408812" />
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1605255904784">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605255904784" />
-    <state x="756" y="278" key="FileChooserDialogImpl" timestamp="1605249287221">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="756" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605249287221" />
-    <state width="1877" height="349" key="GridCell.Tab.0.bottom" timestamp="1605257587300">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605257587300" />
-    <state width="1877" height="349" key="GridCell.Tab.0.center" timestamp="1605257587300">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605257587300" />
-    <state width="1877" height="349" key="GridCell.Tab.0.left" timestamp="1605257587299">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605257587299" />
-    <state width="1877" height="349" key="GridCell.Tab.0.right" timestamp="1605257587300">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="349" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605257587300" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605175402042">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605175402042">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605175402042">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605175402042">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
-    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1605247168156">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605247168156" />
-    <state x="463" y="165" width="1242" height="710" key="SettingsEditor" timestamp="1605248749661">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="463" y="165" width="1242" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605248749661" />
-    <state x="334" y="224" key="new project wizard" timestamp="1605149952998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605149952998" />
-    <state x="640" y="377" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1605249289110">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="377" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605249289110" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605250486428">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605250486428" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
