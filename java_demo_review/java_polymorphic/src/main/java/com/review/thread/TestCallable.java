@@ -17,7 +17,6 @@ import java.util.concurrent.*;
 public class TestCallable implements Callable {
     private String url;
     private String name;
-
     TestCallable(String url, String name) {
         this.name = name;
         this.url = url;

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="627283ca-ae42-4cc4-96d8-63b6b130f3e4" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/agent/Agent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/sleepAndStop/TestDaemon.java" afterDir="false" />
@@ -33,6 +34,14 @@
       <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/Test2ThreadIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/Test2ThreadIO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestRunnable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestThread.class" afterDir="false" />
+=======
+    <list default="true" id="df2af7c7-0797-4fcb-9b7f-2afa2a1c547b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/TestAndDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/TestEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/TestCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/src/main/java/com/review/thread/TestCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/DownloadCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/DownloadCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/java_polymorphic/target/classes/com/review/thread/TestCallable.class" afterDir="false" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +73,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -81,6 +91,16 @@
   <component name="RunManager" selected="Application.TestThreadPool">
     <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestLock" />
+=======
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.TestAndDemo">
+    <configuration name="Test03Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.thread.Test03Thread" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +112,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestManagement" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.review.sleepAndStop.*" />
+=======
+    <configuration name="TestAndDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.TestAndDemo" />
+      <module name="java_polymorphic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.*" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +147,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestThreadPool" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.review.sleepAndStop.*" />
+=======
+    <configuration name="TestEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.review.TestEquals" />
+      <module name="java_polymorphic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.*" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,26 +169,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestThreadSynchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.sleepAndStop.TestThreadSynchronization" />
       <module name="java_polymorphic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.review.sleepAndStop.*" />
+=======
+    <configuration name="TestEquals.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_polymorphic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.*" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.review" />
+      <option name="MAIN_CLASS_NAME" value="com.review.TestEquals" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.TestTestManagement2" />
         <item itemvalue="Application.TestManagement" />
         <item itemvalue="Application.TestLock" />
         <item itemvalue="Application.TestThreadSynchronization" />
+=======
+        <item itemvalue="Application.TestAndDemo" />
+        <item itemvalue="JUnit.TestEquals.test3" />
+        <item itemvalue="Application.TestEquals" />
+        <item itemvalue="Application.TestCallable" />
+        <item itemvalue="Application.Test03Thread" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
       </list>
     </recent_temporary>
   </component>
@@ -163,14 +221,23 @@
       <created>1605425364162</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1605425364162</updated>
       <workItem from="1605425366885" duration="15373000" />
+=======
+      <updated>1605148247346</updated>
+      <workItem from="1605148255068" duration="5191000" />
+      <workItem from="1605160211001" duration="8636000" />
+      <workItem from="1605230051421" duration="15125000" />
+      <workItem from="1605489819082" duration="7689000" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -181,5 +248,79 @@
         </entry>
       </map>
     </option>
+=======
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" width="1132" height="861" key="#Inspections" timestamp="1605256527781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" width="1132" height="861" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1605256527781" />
+    <state x="720" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605248408812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605248408812" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1605255904784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605255904784" />
+    <state x="756" y="278" key="FileChooserDialogImpl" timestamp="1605249287221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605249287221" />
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1605518995342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605518995342" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1605518995342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605518995342" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1605518995342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605518995342" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1605518995342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605518995342" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605175402042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605175402042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605175402042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605175402042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605175402042" />
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1605247168156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605247168156" />
+    <state x="463" y="165" width="1242" height="710" key="SettingsEditor" timestamp="1605495338379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" width="1242" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605495338379" />
+    <state x="334" y="224" key="new project wizard" timestamp="1605149952998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605149952998" />
+    <state x="640" y="377" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1605495159187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="377" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605495159187" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605498998977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605498998977" />
+>>>>>>> 6b72fb58cb9204d5ce682582aaa8c36396d8f212
   </component>
 </project>
